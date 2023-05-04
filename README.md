@@ -1,4 +1,4 @@
-# Gestiune_Credite_Bandare_Web_Forms
+# Gestiune_Credite_Bancare_Web_Forms
 
 ## Tehnologii folosite
 • Aplicația este de tipul Web Forms și este realizată în C#. <br/>
